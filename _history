@@ -1,0 +1,459 @@
+    1   npm install http-server -g
+    2  cd G:\PapaData\Mobil2017\01 JavaScript\javascript-bootcamp-2016\06 Errors  Debugging\attached_files\069 Debugging with the Browser Developer Tools
+    3  cd G:\PapaData\Mobil2017\01 JavaScript\javascript-bootcamp-2016ls
+    4  pwd
+    5   npm install http-server -g
+    6  pwd
+    7  cd /
+    8  ls
+    9  ls
+   10  ls -al | more
+   11  ls -al 
+   12  cd Desktop/
+   13  dir
+   14  ls
+   15  ls -al
+   16  ls
+   17  cd toto
+   18  pwd
+   19  ls
+   20  cd ls
+   21  cd toto.lnk 
+   22  cd Desktop/test/
+   23   npm install http-server -g
+   24  http-server
+   25  ls
+   26  cd public/
+   27  cd ..
+   28  grep -i 
+   29  exit
+   30  cd Desktop/
+   31  cd test/first-prj/
+   32  ls -altr
+   33  cat package.json 
+   34  gulp watch
+   35  gulp watch
+   36  gulp watch
+   37  gulp watch
+   38  gulp watch
+   39  gulp watch
+   40  cd Desktop/test/first-prj/
+   41  gulp icons
+   42  clear
+   43  gulp icons
+   44  gulp icons
+   45  cd 'C:\Users\JMLaptop\Desktop\test\first-prj\app\assets\images\sprites'
+   46  ls
+   47  ls -altr
+   48  gulp icons
+   49  gulp icons
+   50  gulp icons
+   51  cd ../../../
+   52  cd ../
+   53  gulp icons
+   54  git status
+   55  git add -A
+   56  git status
+   57  git status
+   58  git add -A
+   59  git status
+   60  git commit -m 'Added browser support fallbacks (see flexbox in row.css).'
+   61   git checkout master
+   62  git merge browser-support 
+   63  git status
+   64  git add -A
+   65  git commit -m 'Added browser support fallbacks (see flexbox in row.css).'
+   66  git branch
+   67  git checkout browser-support 
+   68  git status
+   69  git add -A
+   70  git status
+   71  git commit -m 'Added browser support fallbacks (see flexbox in row.css).'
+   72   git checkout master
+   73  git merge browser-support 
+   74  clear
+   75  cd g:
+   76  cd PapaData/Projects/
+   77  ls
+   78  cd first-prj/
+   79  ls
+   80  cat gulp
+   81  cat gulpfile.js 
+   82  cd gulp/tasks/
+   83  cat watch.js 
+   84  cat *
+   85   cat * | grep node
+   86  grep node *
+   87  grep app *
+   88  ls
+   89  cat build.js 
+   90  npm install -g nodemon
+   91  cd C:
+   92  cd Users/JMLaptop/
+   93  touch .dbshell
+   94  pwd
+   95  cd c:
+   96  cd g:
+   97  s
+   98  ls
+   99  cd PapaData/Projects/
+  100  ls
+  101  mkdir mongo
+  102  cd mongo/
+  103  npm install -g yo
+  104  pwd
+  105  ls
+  106  ls -al
+  107  mkdir front-end
+  108  cd front-end/
+  109  yo gulp-angular my-message-front
+  110  cd ..
+  111  npm install -g yo gulp bower
+  112  npm install -g generator-gulp-angular
+  113  cd front-end/
+  114  yo gulp-angular my-message-front
+  115  gulp
+  116  gulp serve
+  117  npm update
+  118  npm install gulp-sass --save-dev
+  119  gulp
+  120  gulp serve
+  121  pwd
+  122  npm install gulp-sass --save-dev
+  123  cd /g/PapaData/Projects/mongo/front-end
+  124  gulp
+  125  pwd
+  126  ls -altr
+  127  rm -rf node_modules/
+  128  npm install
+  129  gulp
+  130  gulp serve
+  131  npm install -g @latest
+  132  npm install -g
+  133  gulp hhelp
+  134  gulp --help
+  135  npm update
+  136  npm install gulp-sass --save-dev
+  137  gulp 
+  138  gulp serve
+  139  node --v
+  140  node --version
+  141  yarn add node-sass
+  142  npm install -g yarn
+  143  yarn add node-sass
+  144  npm install -g python
+  145  yarn add node-sass
+  146  pwd
+  147  cd /g/PapaData/Projects/mongo/front-end
+  148  gulp
+  149  gulp serve
+  150  pwd
+  151  ls
+  152  \rn -rf node_modules/
+  153  \rm -rf node_modules/
+  154  env
+  155  | grep -i python
+  156  env 
+  157  npm install
+  158  set PYTHONPATH=%PYTHONPATH%;C:\My_python_lib
+  159  echo $PYTHONPATH
+  160  echo $PYTHONPATH
+  161  echo $PYTHONPATH
+  162  npm install --global --production windows-build-tools
+  163  echo $PYTHONPATH
+  164  gulp
+  165  npm init
+  166  npm install
+  167  ls
+  168  pwd
+  169  ls -altr
+  170  node update
+  171  cat package-lock.json 
+  172  ls
+  173  pwd
+  174  cd g:
+  175  cd PapaData/Projects/
+  176  ls
+  177  cd m
+  178  cd mongo/
+  179  ls
+  180  ls -altr
+  181  cd front-end/
+  182  ls -altr
+  183  gulp
+  184  npm install
+  185  npm install -g node-gyp
+  186  npm install --global --production windows-build-tools
+  187  npm config set python python2.7
+  188  npm config set msvs_version 2015
+  189  node-gyp --python /path/to/python2.7
+  190  npm config set python /path/to/executable/python2.7
+  191  node-gyp --python /path/to/python2.7
+  192  gulp
+  193  npm update
+  194  gulp-sass --save-dev
+  195  npm install gulp-sass --save-dev
+  196  cd ../../
+  197  ls
+  198  cd g
+  199  ls
+  200  cd g:
+  201  ls
+  202  mkdir data
+  203  cd data/
+  204  mkdir db
+  205  cd db
+  206  ls
+  207  ll
+  208  cd c:
+  209  rm -rf data
+  210  ls
+  211  cd g:
+  212  cd data/db/
+  213  ls
+  214  ls -altr
+  215  cd ../../Programs/MongoDB
+  216  cd server/3.6/bin/
+  217  ls 
+  218  ls -altr
+  219  ./mongo
+  220  pwd
+  221  cd ../../../
+  222  ls
+  223  pwd
+  224  cd server/3.6/bin/
+  225  pwd
+  226  cd ../../../
+  227  ls
+  228  cd ..
+  229  cd node
+  230  ls
+  231  cd nodejs/
+  232  ls
+  233  ls -ltr
+  234  pwd
+  235  cd ../
+  236  cd ../PapaData/Projects/
+  237  ls
+  238  cd mongo/
+  239  npm install -g yo
+  240  npm i -npm 
+  241  npm i -g npm 
+  242  npm install -g yo
+  243  npm install -g yo gulp bower
+  244  ls -altr
+  245  cd ../../
+  246  cd ../Programs/
+  247  ls
+  248  cd MongoDB
+  249  ls
+  250  ls -altr
+  251  cd server/
+  252  ls
+  253  cd 3.6/
+  254  ls
+  255  ls -altr
+  256  cd ../../../
+  257  ls
+  258  ls -altr
+  259  npm install -g generator-gulp-angular
+  260  ls
+  261  pwd
+  262  ls
+  263  cd
+  264  vi .alias
+  265  ls -altr
+  266  cat .dbshell 
+  267  car .bash_history 
+  268  cat .bash_history 
+  269  help
+  270  help alias
+  271  vi .alias
+  272  vi .alias
+  273  source .alias 
+  274  lr
+  275  alias 'lr = ls altr'
+  276  vi .alias
+  277  source .alias 
+  278  alias
+  279  more .bash_history 
+  280  vi .dbshell 
+  281  cat .co
+  282  vi .config/
+  283  grep ll .*
+  284  clear
+  285  vi .bashrc
+  286  source .bashrc 
+  287  lr
+  288  vi .bashrc
+  289  source .bashrc 
+  290  vi .bashrc
+  291  lr
+  292  vi .bashrc
+  293  source .bashrc 
+  294  vi .bashrc 
+  295  'lr = ls -altr'
+  296  echo alias ll=\'ls -l\' >> .bashrc
+  297  source .bash
+  298  source .bashrc
+  299  cat .bashrc 
+  300  vi .bashrc 
+  301  bg
+  302  fg
+  303  bg
+  304  fg
+  305  source .bashrc
+  306  vi .bashrc 
+  307  source .bashrc
+  308   echo alias ll=\'ls -l\' >> .bashrc
+  309  vi .bashrc 
+  310  source .bashrc
+  311  vi .bashrc 
+  312  source .bashrc
+  313  lr
+  314  prj
+  315  pwd
+  316  lr
+  317  cd mongo/
+  318  lr
+  319  lr
+  320  pwd
+  321  cd front-end/
+  322  lr
+  323  cd ../
+  324  lr
+  325  rm package-lock.json 
+  326  lr
+  327  npm install -g generator-gulp-angular
+  328  ls
+  329  ls -altr
+  330  lr
+  331  cd front-end/
+  332  yo gulp-angular my-message-front
+  333  cler
+  334  vi .bashrc 
+  335  cd
+  336  vi .bashrc 
+  337  source .bashrc
+  338  prj
+  339  cd mongo/
+  340  lr
+  341  cd front-end/
+  342  lr
+  343  gulp
+  344  npm install gulp-sass --save-dev
+  345  cd node_modules/
+  346  ls
+  347  cd ..
+  348  cat package.json 
+  349  cd node_modules/
+  350  ls gulp
+  351  cd gulp
+  352  cat package.json 
+  353  cd ..
+  354  cd ..
+  355  cat package.json 
+  356  grep -i python package.json 
+  357  env | grep -i python
+  358  g:
+  359  g:
+  360  pwd
+  361  g
+  362  cd g:
+  363  pwd
+  364  ls
+  365  mongo
+  366  cd mongo
+  367  cd 
+  368  /
+  369  pwd
+  370  cd 
+  371  cd c:/proc/
+  372  cd c:
+  373  cd Program
+  374  ls
+  375  cd 
+  376  cd 
+  377  cd 'Program Files'
+  378  pwd
+  379  ;s
+  380  ls
+  381  ls
+  382  pwd
+  383  cd c:
+  384  cd 'Program Files'
+  385  ls
+  386  echo $PATH
+  387  pwd
+  388  ls
+  389  cd ..
+  390  ls
+  391  cd 'Program Files (x86)'
+  392  ls
+  393  cd g:
+  394  cd PapaData/
+  395  ls
+  396  cd Programs/
+  397  ls
+  398  ls -altr
+  399  cd ..
+  400  ls
+  401  cd Pro
+  402  cd Programs/
+  403  ls
+  404  ls
+  405  ls -alr
+  406  pwd
+  407  cd bin
+  408  ls
+  409  ls -altr
+  410  cd ..
+  411  cd ..
+  412  rm -rf Programs
+  413  ls
+  414  cd g:
+  415  mkdir Programs
+  416  cd Programs/
+  417  ls
+  418  clear
+  419  ls -altr
+  420  ls
+  421  ls -ltr
+  422  ls
+  423  ls -altr
+  424  cd MongoDB
+  425  ls
+  426  ls -altr
+  427  cd server/
+  428  cd 3.6/
+  429  ls -altr
+  430  ls -altr
+  431  ls -altr
+  432  cd bin/
+  433  ls -altr
+  434  ./mongod
+  435  ./mongod
+  436  clear
+  437  pwd
+  438  cd ..
+  439  cd ..
+  440  cd ..
+  441  cd ..
+  442  cd ../
+  443  ;s
+  444  ls
+  445  cd PapaData/Projects/
+  446  pwd
+  447  cd $PYTHONPATH
+  448  prj
+  449  cd mongo/
+  450  cd front-end/
+  451  lr
+  452  npm install
+  453  npm install
+  454  gulp
+  455  gem
+  456  npm install node-sass
+  457  npm install gulp-sass --save-dev
+  458  gulp -v
+  459  history >> _history
